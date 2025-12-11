@@ -162,6 +162,7 @@ petsos-app/
 
 **SeungMin**
 - GitHub: [@SeungMin2001](https://github.com/SeungMin2001)
+- Email: seungmin2001@example.com
 
 ## 🙏 감사의 말
 
